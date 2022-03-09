@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "title": "Sobre o livro",
+            "page": "1",
+            "firstParagraph": "Olá, meu nome é Débora e minha historia começou no ano de 2001, mais especificamente na quarta do dia 6 de junho de 2001, pois é... não foi um dia lá muito especial, para a maioria, ao menos. Dei uma pequena pesquisada na internet, sinceramnete achei bem poucas coisas sobre esse dia, o que encontrei foi apenas algumas manchetes, como: 'O maior presídio do estado, a 20 km de Curitiba, foi dominado por 8 presos que dizem ser ligados ao PCC; negociações prosseguem nesta quinta-feira. Confira com a repórter Ana Zimmerman', ou 'Preço do pão sobe:  Até 20%, por causa da alta internacional do produto e da valorização do dólar'. Acredito que o dia só foi um marco mesmo para meus pais no final de contas. ",
+            "secondParagraph": "Bom, de qualquer forma, você que está lendo isso, não sei por qual motivo chegou aqui mas, estou escrevendo isso com o intuito de registrar a minha vida nesse livro, isso é, mergulhar no passado por um tempo para relembrar de uma boa parte. Por via de curiosidade, estou escrevendo isso por volta das 10h30/11h da manhã do dia 21/12/2021, atualmente tenho 20 anos, cabelo preto, curto, e estou com aproximadamente 42kg (e me encontro feliz por isso.",
+            "thirdParagraph": "Estou escrevendo isso também pelo motivo de que, me vejo completamente perdida, em essência, eu não me acho mais, é como se eu em algum momento cai em um precipicio muito profundo ao ponto de não ser mais visível. Mas sinto que é possivel encontrar, uma ideia foi iniciar esse livro, no intuito de ir lembrando de dificuldades e aprendizado, traumas entre outras experiencias que me fizeram ser quem sou hoje, para então me encontrar novamente e viver bem, isso é, alcançar a paz.",
+            "forthParagraph": "Os ultimos tempos tem sido extremamente dificeis para mim, não é como se fossem os piores, mas com  certeza as vezes (ou quase sempre) eu tenho uma vontade absurda de morrer, simplesmente acabar com tudo isso. Mesmo com 20 anos (nova ao ponto de vista geral), eu tenho noção o suficiente e já passei por isso anteriormente. De modo geral, a vida funciona como passar um dia todo com o pai ou a mãe, para uma criança, os pais como de costume resolvem problemas diários, ligados a negócios, tao abrangente quanto ir ao banco quanto ao cartorio e por assim vai. O ponto é que, para a criança, esse dia será muito tedioso, ela vai fazer birra, vai ter que ficar esperando horas e horas e isso (para uma criança), é pra la de chato. Mas o ponto principal disso tudo é que, uma hora tudo isso vai passar e voltar a correr novamente. Chega um momento que como tudo que voce passa inumeras vezes na vida, voce se acostuma, e acaba apenas sobrevivendo a tudo isso. Eu me tornei mórbida em tudo isso, apenas esperando algo mudar, ou executar de fato o que sinto vontade. "
+        },
+        {
+            "title": "Capítulo 1",
+            "page": "2",
+            "firstParagraph": "É desconfortável se esforçar para lembrar das primeiras mémórias e não conseguir assimilar se a mais antiga é uma ou outra, pois todas parecem da mesma forma, só um grande borrão com algumas imagens, as vezes sons, mas todos quase que nada identificáveis. De qualquer forma, por historias e contexto de tudo, eu tenho uma certa ideia limitada da minha vida.",
+            "secondParagraph": "A começar pelo hospital aonde nasci, se me lembro bem, era Nossa Senhora da Luz, que, hoje em dia tem outro nome. É um hospital que fica bem na região central de Curitba, perto do Guadalupe. Sei que durante não só essa época. mas como também toda a minha vida foi repleta de mudanças. ",
+            "thirdParagraph": "Estou escrevendo isso por pura conta própria, isso é, o caminho mais fácil seria perguntar tudo pra minha mãe, mas bem, uma hora pergunto e faço uma nova versão desse livro(risos. De toda forma, é claro o quanto minha vida foi repleta de mudanças.  "
+        },
+        {
+            "title": "Capítulo 2",
+            "page": "3",
+            "firstParagraph": "",
+            "secondParagraph": "assets/demo/images/galleria/galleria3s.jpg",
+            "alt": "Description for Image 3"
+        },
+        {
+            "title": "Capítulo 3",
+            "firstParagraph": "",
+            "thumbnailImageSrc": "assets/demo/images/galleria/galleria4s.jpg",
+            "alt": "Description for Image 4"
+        },
+        {
+            "firstParagraph": "assets/demo/images/galleria/galleria5.jpg",
+            "thumbnailImageSrc": "assets/demo/images/galleria/galleria5s.jpg",
+            "alt": "Description for Image 5",
+            "title": "Title 5"
+        },
+        {
+            "firstParagraph": "assets/demo/images/galleria/galleria8.jpg",
+            "thumbnailImageSrc": "assets/demo/images/galleria/galleria8s.jpg",
+            "alt": "Description for Image 8",
+            "title": "Title 8"
+        },
+        {
+            "firstParagraph": "assets/demo/images/galleria/galleria9.jpg",
+            "thumbnailImageSrc": "assets/demo/images/galleria/galleria9s.jpg",
+            "alt": "Description for Image 9",
+            "title": "Title 9"
+        },
+        {
+            "firstParagraph": "assets/demo/images/galleria/galleria10.jpg",
+            "thumbnailImageSrc": "assets/demo/images/galleria/galleria10s.jpg",
+            "alt": "Description for Image 10",
+            "title": "Title 10"
+        }
+    ]
+}

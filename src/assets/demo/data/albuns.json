@@ -1,0 +1,92 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "depressao",
+			"description": "2014",
+			"image": "bamboo-watch.jpg",
+			"data": 2014,
+			"quantity": 24,
+			"inventoryStatus": "MEDIO",
+			"rating": 3
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"name": "confortável, mas esquisito",
+			"description": "2015",
+			"image": "black-watch.jpg",
+			"data": 2015,
+			"quantity": 61,
+			"inventoryStatus": "MEDIO",
+			"rating": 3
+		},
+		{
+			"id": "1002",
+			"code": "zz21cz3c1",
+			"name": " O Limbo",
+			"description": "2016",
+			"image": "blue-band.jpg",
+			"data": 2016,
+			"quantity": 2,
+			"inventoryStatus": "HORRIVEL",
+			"rating": 2
+		},
+		{
+			"id": "1003",
+			"code": "244wgerg2",
+			"name": "Blue T-Shirt",
+			"description": "2017",
+			"image": "blue-t-shirt.jpg",
+			"data": 2017,
+			"quantity": 25,
+			"inventoryStatus": "BOM",
+			"rating": 5
+		},
+		{
+			"id": "1004",
+			"code": "h456wer53",
+			"name": "Bracelet",
+			"description": "2018",
+			"image": "bracelet.jpg",
+			"data": 2018,
+			"quantity": 73,
+			"inventoryStatus": "HORRIVEL",
+			"rating": 1
+		},
+		{
+			"id": "1005",
+			"code": "av2231fwg",
+			"name": "Brown Purse",
+			"description": "2019",
+			"image": "brown-purse.jpg",
+			"data": 2019,
+			"quantity": 0,
+			"inventoryStatus": "MEDIO",
+			"rating": 4
+		},
+		{
+			"id": "1006",
+			"code": "bib36pfvm",
+			"name": "O Pior de todos",
+			"description": "2020",
+			"image": "chakra-bracelet.jpg",
+			"data": 2020,
+			"quantity": 5,
+			"inventoryStatus": "HORRIVEL",
+			"rating": 0
+		},
+		{
+			"id": "1007",
+			"code": "mbvjkgip5",
+			"name": "KKKKKKKKKKKKKK",
+			"description": "2021",
+			"image": "galaxy-earrings.jpg",
+			"data": 2021,
+			"quantity": 23,
+			"inventoryStatus": "BOM",
+			"rating": 3
+		}
+	]
+}
